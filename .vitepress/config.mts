@@ -17,6 +17,10 @@ export default defineConfig({
         collapsed: false,
         items: [
           {
+            text: "Bear",
+            link: "/bear/",
+          },
+          {
             text: "Swordland",
             link: "/swordland/",
           },

@@ -10,6 +10,8 @@ hero:
 features:
   - title: Swordland
     link: /swordland/
+  - title: Bear
+    link: /bear/
   - title: Assets & utilities
     link: /assets
 ---

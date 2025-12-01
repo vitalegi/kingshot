@@ -6,5 +6,5 @@
 
 ## Utilities
 
-[Resource cost/time calculator](/static/cost_estimator_v0.1.xlsx)
+[Resource cost/time calculator](https://kingshot-pro.netlify.app/static/cost_estimator_v0.1.xlsx)
 

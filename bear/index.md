@@ -4,21 +4,26 @@
 
 The left-most joining hero MUST be one of the following. If none available, join with NO hero.
 
-### Amadeus
 
-![Amadeus](/static/heroes/amadeus-avatar.webp "Amadeus"){width=250px height=250px}
+**Amane**
 
-### Amane
+![Amane](/static/heroes/amane-avatar.webp "Amane"){width=150px height=150px}
 
-![Amane](/static/heroes/amane-avatar.webp "Amane"){width=250px height=250px}
+**Yeonwoo**
 
-### Yeonwoo
+![Yeonwoo](/static/heroes/yeonwoo-avatar.webp "Yeonwoo"){width=150px height=150px}
 
-![Yeonwoo](/static/heroes/yeonwoo-avatar.webp "Yeonwoo"){width=250px height=250px}
+**Chenko**
 
-### Hilde
+![Chenko](/static/heroes/chenko-avatar.webp "Chenko"){width=150px height=150px}
 
-![Hilde](/static/heroes/hilde-avatar.webp "Hilde"){width=250px height=250px}
+**Amadeus**
+
+![Amadeus](/static/heroes/amadeus-avatar.webp "Amadeus"){width=150px height=150px}
+
+**Hilde**
+
+![Hilde](/static/heroes/hilde-avatar.webp "Hilde"){width=150px height=150px}
 
 ## When STARTING a rally
 

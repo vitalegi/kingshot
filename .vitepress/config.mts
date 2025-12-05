@@ -13,6 +13,16 @@ export default defineConfig({
     },
     sidebar: [
       {
+        text: "Game Mechanics",
+        collapsed: false,
+        items: [
+          {
+            text: "Formations",
+            link: "/game-mechanics/formations",
+          },
+        ],
+      },
+      {
         text: "Events",
         collapsed: false,
         items: [

@@ -27,10 +27,6 @@ Use only high level troops. Suggested formation is [10/10/80](/game-mechanics/fo
 
 ![Amadeus](/static/heroes/amadeus-avatar.webp "Amadeus"){width=150px height=150px}
 
-**Hilde**
-
-![Hilde](/static/heroes/hilde-avatar.webp "Hilde"){width=150px height=150px}
-
 ## When STARTING a rally
 
 Use your strongest 3 heroes. Rally leader MUST be one of the following.

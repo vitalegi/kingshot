@@ -6,8 +6,13 @@
 
 ## Utilities
 
-[Resource cost/time calculator](https://kingshot-pro.netlify.app/static/cost_estimator_v0.1.xlsx)
+| Link                              | Description                                                               |
+| --------------------------------- | ------------------------------------------------------------------------- |
+| [cost_estimator_v0.1.xlsx](https://kingshot-pro.netlify.app/static/cost_estimator_v0.1.xlsx) | Excel spreadsheet with resources' cost/time calculator |
 
-<https://kingshotcalculator.com/>
+## External resources
 
-<https://kingshotdata.com/>
+| Link                              | Description                                                               |
+| --------------------------------- | ------------------------------------------------------------------------- |
+| <https://kingshotcalculator.com/> | Simulators for different stuff, like building time/cost, battle simulator |
+| <https://kingshotdata.com/>       | Stats about the game and event rules                                      |

@@ -34,6 +34,10 @@ export default defineConfig({
             text: "Swordland",
             link: "/swordland/",
           },
+          {
+            text: "Castle Battle",
+            link: "/events/castle-battle",
+          },
         ],
       },
       { text: "Assets & utilities", link: "/assets"}

@@ -14,6 +14,7 @@ export default defineConfig({
     sidebar: [
       {
         text: "Game Mechanics",
+        link: '/game-mechanics',
         collapsed: false,
         items: [
           {
@@ -24,6 +25,7 @@ export default defineConfig({
       },
       {
         text: "Events",
+        link: '/events',
         collapsed: false,
         items: [
           {

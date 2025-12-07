@@ -8,12 +8,12 @@ hero:
   tagline: Always breathe good mountain air!
 
 features:
-  - title: Castle Battle
+  - title: 🔥​Castle Battle
     link: /events/castle-battle
-  - title: Swordland
-    link: /events/swordland/
-  - title: Bear
-    link: /events/bear/
+  - title: Events
+    link: /events
+  - title: Game Mechanics
+    link: /game-mechanics
   - title: Assets & utilities
     link: /assets
 ---

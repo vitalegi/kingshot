@@ -42,7 +42,7 @@ export default defineConfig({
       },
       { text: "Assets & utilities", link: "/assets"}
     ],
-    lastUpdatedText: "Modificato il",
+    lastUpdatedText: "Last updated",
     editLink: {
       pattern: "https://github.com/vitalegi/kingshot/edit/master/:path",
       text: "Edit this page on GitHub",

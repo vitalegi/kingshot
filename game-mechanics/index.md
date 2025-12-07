@@ -1,3 +1,3 @@
 # Game Mechanics
 
-[Formations](/game-mechanics/formations)
+[Formations](/game-mechanics/formations/)

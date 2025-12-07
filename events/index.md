@@ -1,7 +1,7 @@
 # Events
 
-[Bear](/events/bear)
+[Bear](/events/bear/)
 
-[Swordland](/events/swordland)
+[Swordland](/events/swordland/)
 
-[Castle Battle](/events/castle-battle)
+[Castle Battle](/events/castle-battle/)

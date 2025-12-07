@@ -4,7 +4,7 @@
 
 ### Troops
 
-Use only high level troops. Suggested formation is [10/10/80](/game-mechanics/formations).
+Use only high level troops. Suggested formation is [10/10/80](/game-mechanics/formations/).
 
 ## When JOINING a rally
 

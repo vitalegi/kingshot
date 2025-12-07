@@ -12,29 +12,23 @@ Use only high level troops. Suggested formation is [10/10/80](/game-mechanics/fo
 - Don't use blue heroes for second and third heroes
 
 **Yeonwoo**
-
-![Yeonwoo](/static/heroes/yeonwoo-avatar.webp "Yeonwoo"){width=150px height=150px}
+![](/static/heroes/yeonwoo-avatar.webp){width=150px height=150px}
 
 **Chenko**
-
-![Chenko](/static/heroes/chenko-avatar.webp "Chenko"){width=150px height=150px}
+![](/static/heroes/chenko-avatar.webp){width=150px height=150px}
 
 **Amane**
-
-![Amane](/static/heroes/amane-avatar.webp "Amane"){width=150px height=150px}
+![](/static/heroes/amane-avatar.webp){width=150px height=150px}
 
 **Amadeus**
-
-![Amadeus](/static/heroes/amadeus-avatar.webp "Amadeus"){width=150px height=150px}
+![](/static/heroes/amadeus-avatar.webp){width=150px height=150px}
 
 ## When STARTING a rally
 
 Use your strongest 3 heroes. Rally leader MUST be one of the following.
 
 **Amadeus**
-
-![Amadeus](/static/heroes/amadeus-avatar.webp "Amadeus"){width=150px height=150px}
+![](/static/heroes/amadeus-avatar.webp){width=150px height=150px}
 
 **Jabel**
-
-![Jabel](/static/heroes/jabel-avatar.webp "Jabel"){width=150px height=150px}
+![](/static/heroes/jabel-avatar.webp){width=150px height=150px}

@@ -22,6 +22,14 @@ export default defineConfig({
             text: "Formations",
             link: "/game-mechanics/formations",
           },
+          {
+            text: "Heroes",
+            link: "/game-mechanics/heroes",
+          },
+          {
+            text: "Hero Shards",
+            link: "/game-mechanics/hero-shards",
+          },
         ],
       },
       {

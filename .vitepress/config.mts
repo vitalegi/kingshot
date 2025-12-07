@@ -28,11 +28,11 @@ export default defineConfig({
         items: [
           {
             text: "Bear",
-            link: "/bear/",
+            link: "/events/bear/",
           },
           {
             text: "Swordland",
-            link: "/swordland/",
+            link: "/events/swordland/",
           },
           {
             text: "Castle Battle",

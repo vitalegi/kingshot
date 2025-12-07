@@ -11,9 +11,9 @@ features:
   - title: Castle Battle
     link: /events/castle-battle
   - title: Swordland
-    link: /swordland/
+    link: /events/swordland/
   - title: Bear
-    link: /bear/
+    link: /events/bear/
   - title: Assets & utilities
     link: /assets
 ---

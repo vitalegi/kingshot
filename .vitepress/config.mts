@@ -30,6 +30,10 @@ export default defineConfig({
             text: "Hero Shards",
             link: "/game-mechanics/hero-shards",
           },
+          {
+            text: "Rallies",
+            link: "/game-mechanics/rallies",
+          },
         ],
       },
       {

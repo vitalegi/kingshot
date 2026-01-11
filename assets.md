@@ -6,9 +6,10 @@
 
 ## Utilities
 
-| Link                              | Description                                                               |
-| --------------------------------- | ------------------------------------------------------------------------- |
-| [cost_estimator_v0.1.xlsx](https://kingshot-pro.netlify.app/static/cost_estimator_v0.1.xlsx) | Excel spreadsheet with resources' cost/time calculator |
+| Link                                                                                             | Description                                                                       |
+| ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
+| [cost_estimator_v0.1.xlsx](https://kingshot-pro.netlify.app/static/cost_estimator_v0.1.xlsx)     | Resources' cost/time calculator                                                   |
+| [troops_promotion_v0.1.xlsx](https://kingshot-pro.netlify.app/static/troops_promotion_v0.1.xlsx) | Comparator between training high level troops and training lower levels+promoting |
 
 ## External resources
 

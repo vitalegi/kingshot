@@ -10,6 +10,7 @@
 | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
 | [cost_estimator_v0.1.xlsx](https://kingshot-pro.netlify.app/static/cost_estimator_v0.1.xlsx)     | Resources' cost/time calculator                                                   |
 | [troops_promotion_v0.1.xlsx](https://kingshot-pro.netlify.app/static/troops_promotion_v0.1.xlsx) | Comparator between training high level troops and training lower levels+promoting |
+| [auto-join.mov](https://kingshot-pro.netlify.app/static/auto-join.mov)                           | How to configure auto-join formation                                              |
 
 ## External resources
 
